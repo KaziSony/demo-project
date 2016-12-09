@@ -22,6 +22,7 @@ namespace CalculatorApp
         public static double Add(double aNumber , double bNumber)
         {
             return aNumber + bNumber;
+            //kazi sony 
         }
     }
 }
