@@ -10,7 +10,7 @@ namespace CalculatorApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Give ur number :");
+            Console.WriteLine("Give Mazedur's number:");
             double aNumber = Convert.ToDouble(Console.ReadLine());
             double bNumber = Convert.ToDouble(Console.ReadLine());
             //Add(12, 5);
